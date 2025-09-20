@@ -1,6 +1,6 @@
 id = "yamura"
 name = "Yamura"
-version = "1.0.0"
+version = "0.0.1"
 schema_version = 1
 authors = ["Enhanced Dracula Theme"]
 description = "Beautiful enhanced Dracula-inspired theme for Zed with improved code colors"
