@@ -13,14 +13,10 @@ The easiest way to install the Yamura theme is directly through Zed's extension 
 If you prefer to install the theme manually, follow these steps:
 
 1.  Download the `themes/yamura.json` file from this repository.
-2.  Open your Zed configuration directory.
-    -   **macOS & Linux**: `~/.config/zed/`
-    -   **Windows**: `%APPDATA%\zed\`
-3.  Create a `themes` folder inside the configuration directory if it doesn't already exist.
-4.  Copy the `yamura.json` file into the `themes` folder.
+2.  Open your Zed extensions and select 'Install Dev Extension'
 
 ### Activating the Theme
 
 1.  Open the theme selector in Zed by pressing `Ctrl+K`, then `Ctrl+T`.
-2.  Choose either `Yamura` or `Yamura Light` from the list.
+2.  Choose either `Yamura Dark` or `Yamura Light` from the list.
 3.  Enjoy your new theme! ✨
