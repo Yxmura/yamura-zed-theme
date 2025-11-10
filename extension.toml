@@ -1,7 +1,7 @@
 id = "yamura"
 name = "Yamura"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
-authors = ["Enhanced Dracula Theme"]
-description = "Beautiful enhanced Dracula-inspired theme for Zed with improved code colors"
-repository = "https://github.com/dracula/zed"
+authors = ["Yamura <yxmura@proton.me>"]
+description = "Beautiful theme for Zed with great eye-soothing colors"
+repository = "https://github.com/yxmura/yamura-zed-theme"
